@@ -1,0 +1,12 @@
+vcenterServer     = "192.168.2.100"
+vcenterUser       = "administrator@vsphere.local"
+vcenterPass       = "xxxxxxxxxx"
+vcenterCluster    = "prod_cluster"
+vcenterDatacenter = "prod_datacenter"
+templateFolder    = "prod/templates"
+vcenterDatastore  = "datastore1"
+vcenterHost       = "192.168.2.93"
+templateName      = "Win2022_template"
+winrmPassword     = "xxxxxxxxxxx"
+winrmUser         = "Administrator"
+
